@@ -42,6 +42,6 @@ let nums1 = [1, 1, 2]
 console.log(removeDuplicates(nums1))  // 2
 console.log(nums1)  // [1, 2, 2] (first 2 elements are unique)
 
-let nums2 = [0, 0, 1, 1, 1, 2, 2, 3, 3, 4]
-console.log(removeDuplicates(nums2))  // 5
-console.log(nums2)  // [0, 1, 2, 3, 4, ...] (first 5 elements are unique)
+// let nums2 = [0, 0, 1, 1, 1, 2, 2, 3, 3, 4]
+// console.log(removeDuplicates(nums2))  // 5
+// console.log(nums2)  // [0, 1, 2, 3, 4, ...] (first 5 elements are unique)
